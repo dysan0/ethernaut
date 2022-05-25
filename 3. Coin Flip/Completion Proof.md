@@ -6,7 +6,9 @@
 
 **Calling Flipper Contract Deployment Transaction Hash:** 0xfde3b4df963a706d13f35861a789d1c4856bdde8850e1c55a229eae4463acc53 [Link](https://rinkeby.etherscan.io/tx/0xfde3b4df963a706d13f35861a789d1c4856bdde8850e1c55a229eae4463acc53)
 
-**Calling 10 x Fliptify() Transaction Hashes:** 0xb25fdbed06718ef18a4971b2a55edfa1944460c8be5fd704cd660d37e07cadfe [Link](https://rinkeby.etherscan.io/tx/0xb25fdbed06718ef18a4971b2a55edfa1944460c8be5fd704cd660d37e07cadfe)
+**Calling 10 x Fliptify() Transaction Hashes:** 
+
+0xb25fdbed06718ef18a4971b2a55edfa1944460c8be5fd704cd660d37e07cadfe [Link](https://rinkeby.etherscan.io/tx/0xb25fdbed06718ef18a4971b2a55edfa1944460c8be5fd704cd660d37e07cadfe)
 
 0x2b8693bdcacd03b951533c66f1b4bca8d5b2df08b448c62081cbfea5fb44ff0b [Link](https://rinkeby.etherscan.io/tx/0x2b8693bdcacd03b951533c66f1b4bca8d5b2df08b448c62081cbfea5fb44ff0b)
 
