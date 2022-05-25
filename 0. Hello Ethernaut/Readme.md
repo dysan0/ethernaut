@@ -3,7 +3,6 @@ Difficulty: 0/10
 
 This level teaches the basics of how to play the game. 
 
-&nbsp;
 # Solution
 
 1. Setup MetaMask
@@ -76,8 +75,6 @@ contract.authenticate("ethernaut0")
 await contract.getCleared() 
 ```
 
-
-&nbsp;
 # Completion Message
 ```
 Level completed!
