@@ -68,7 +68,7 @@ Prior to using `transferfrom()`, the token owner wallet have to approve allowanc
 contract.approve('0xd69DFe5AE027B4912E384B821afeB946592fb648','1000000000000000000000000')
 ```
 
-Now we can use transferFrom() to empty the wallet:
+Now we can use transferFrom() to empty the wallet (you can transfer them to address(0) as well):
 ``` Solidity
 contract.transferFrom(player, '0x5A7A9517f118dCCEfAFcB6AF99ADD30b904Ce9cb','1000000000000000000000000')
 ```
