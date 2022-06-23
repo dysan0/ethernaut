@@ -9,4 +9,4 @@
 0x9346e510f7f0b493bbad4b5270d593cf61a08e682fa9723e8d6cb69edf990c8f [Link](https://rinkeby.etherscan.io/tx/0x9346e510f7f0b493bbad4b5270d593cf61a08e682fa9723e8d6cb69edf990c8f)
 
 **Level Submit Instance Transaction Hash:** 
-0xaa14c54b17e245c10c16646e5191da8f39596e9c0a8c5eb349a8a81af7ec9eda [Link](https://rinkeby.etherscan.io/tx/0xaa14c54b17e245c10c16646e5191da8f39596e9c0a8c5eb349a8a81af7ec9eda 
+0xaa14c54b17e245c10c16646e5191da8f39596e9c0a8c5eb349a8a81af7ec9eda [Link](https://rinkeby.etherscan.io/tx/0xaa14c54b17e245c10c16646e5191da8f39596e9c0a8c5eb349a8a81af7ec9eda)
