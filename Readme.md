@@ -1,6 +1,8 @@
 # About
 
-This github repo hosts my solutions to the Ethernaut Challenge.
+This github repo hosts my solutions to the Ethernaut Challenge. I learned a lot about solidity doing these challenges. My most favorite challenge was the `Alien Codex`, which taught me a lot about EVM storage. My least favorite challenge was `Gatekeeper One`, which helped me get close and personal with the remix debugger.
+
+I would highly recommend the Ethernaut Challenges to everyone!!!
 
 # What is Ethernaut by OpenZeppelin?
 
@@ -9,15 +11,15 @@ This github repo hosts my solutions to the Ethernaut Challenge.
 The game is 100% open source and all levels are contributions made by other players. Do you have an interesting idea? PRs are welcome at github.com/OpenZeppelin/ethernaut."[1]
 
 # Links
+
 [1] Ethernaut: https://ethernaut.openzeppelin.com/
 
-
 # Useful tips:
+
 #### Enable Firefox Console Copy/Paste:
-1. In the address bar, type *about:config*  and press Enter/Return.
-2. In the Search field, type *devtools.selfxss.count*,
-then doubleclick this preference (or right-click and choose "Reset") to
-set it to the default value of 0 (null) for Firefox release versions.
+
+1. In the address bar, type _about:config_ and press Enter/Return.
+2. In the Search field, type _devtools.selfxss.count_,
+   then doubleclick this preference (or right-click and choose "Reset") to
+   set it to the default value of 0 (null) for Firefox release versions.
 3. Restart Firefox.
-
-
